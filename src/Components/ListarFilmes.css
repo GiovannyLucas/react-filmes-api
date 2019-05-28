@@ -1,0 +1,12 @@
+.box {
+    display: block;
+}
+
+.btn-dark {
+    background-color: black;
+    color: white;
+}
+
+.score {
+    color: red;
+}
